@@ -28,10 +28,7 @@ Detects the face present in the video. Video Face Detection gives the bounding b
 Custom model training lets you tailor base models (through transfer learning approaches) to make deep learning models tuned to your data. Model selection, resource planning, and deployment are all managed by Vision. Offline Video Service allows user to analyze video through the custom models created using their data. To know more about creation of custom models refer [Vision Livelabs](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=931&p210_wec=&session=106686822193156).
 
 #### 1. Video Object Detection 
-Enables you to analyze video with the custom object detection model which is created using your data.
-
 #### 2. Video Label Detection
-Enables you to analyze video with the custom label detection model which is created using your data.
 
 
 ### Prerequisites
