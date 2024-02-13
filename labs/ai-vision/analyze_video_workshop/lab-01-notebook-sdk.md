@@ -26,7 +26,7 @@ In this lab, you will:
 
     where dynamic-group represents the name of your dynamic group.
 
-* Access to OCI preview SDK (request access by emailing aparna.chaturvedi@oracle.com)
+* Access to OCI preview SDK (request access by emailing aparna.chaturvedi@oracle.com).
 
 ## Task 1: Navigate to the Data Science Notebook Session
 
